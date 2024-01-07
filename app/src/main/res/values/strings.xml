@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Model Trainer</string>
+    <string name="welcome">Welcome</string>
+    <string name="choose_csv">Choose CSV File</string>
+    <string name="choose_model">Choose Model</string>
+    <string name="test">Test</string>
+</resources>
